@@ -1,1 +1,1 @@
-Lee, oh Lee, o que foi que eu fiz? Olha só para você, nem está consciente e continua se empenhando em mostrar para o mundo o que pode fazer... Ele está nocauteado e tudo o que o mantém de pé e o poder de sua vontade, vence já provou... Você é um grande ninja
+The term "git origin master" is used in the context of a remote repository. It is used to deal with the remote repository. The term origin comes from where repository original situated and master stands for the main branch.
